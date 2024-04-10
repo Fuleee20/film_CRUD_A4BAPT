@@ -1,0 +1,19 @@
+[
+    {
+      "cat_id": "1",
+      "name": "Sci-fi"
+    },
+    {
+      "cat_id": "2",
+      "name": "Akció"
+    },
+    {
+      "cat_id": "3",
+      "name": "Vígjáték"
+    },
+    {
+      "cat_id": "4",
+      "name": "Dráma"
+    }
+  ]
+  
